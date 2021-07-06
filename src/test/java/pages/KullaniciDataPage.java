@@ -24,5 +24,9 @@ public class KullaniciDataPage {
     @FindBy (xpath = "//button[@class='btn']")
     public WebElement createButonu;
 
+    public void deneme(){
+
+    }
+
 
 }
